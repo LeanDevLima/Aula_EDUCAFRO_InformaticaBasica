@@ -1,5 +1,21 @@
-# Apresentação PowerPoint — Informática Básica para Adultos Iniciantes
+# Curso EDUCAFRO — Informática Básica e Inclusão Digital
+
+Repositório com materiais de apoio, roteiros de aula, planilhas práticas e guias de slides para as oficinas de inclusão digital e informática básica da EDUCAFRO.
+
+---
+
+## 📂 Organização do Repositório e das Aulas
+
+| Aula | Descrição | Arquivos no Repositório |
+| :--- | :--- | :--- |
+| **Aula 1** | **Informática Básica para Adultos Iniciantes**<br>Curso de 8 horas (Turnos 1 e 2) cobrindo fundamentos de hardware, mouse, teclado, arquivos/pastas, editor de texto, internet, e-mail, planilhas e segurança digital. | - `Informatica_Basica_Adultos.pdf`<br>- `Informatica_Basica_Adultos.pptx` |
+| **Aula 2** | **Inclusão Digital, Ferramentas Web e Produtividade**<br>Oficinas práticas divididas em Turma 1 (Iniciante: mouse, digitação e internet) e Turma 2 (Avançado: planilhas em nuvem, fórmulas, PROCV, SE e apresentações). | - `Educafro_aula2_iniciante.pdf`<br>- `Educafro_aula2_avancado.pdf`<br>- `Aula2-Excel.xlsx` |
+
+---
+
+# PARTE 1: AULA 1 — INFORMÁTICA BÁSICA PARA ADULTOS INICIANTES
 ### Roteiro completo de slides | 121 slides | 8 horas (2 turnos de 4h)
+- **Arquivos de apoio:** `Informatica_Basica_Adultos.pdf` e `Informatica_Basica_Adultos.pptx`
 
 **Como usar este documento:**
 Cada slide traz o número, o título, o conteúdo visual (o que aparece na tela) e as notas do apresentador (o que o instrutor fala ou faz). As descrições de imagem indicam exatamente o que precisa aparecer em cada captura de tela. No final do documento há a lista completa de imagens a produzir e o padrão visual recomendado.
@@ -1583,6 +1599,193 @@ Cada slide traz o número, o título, o conteúdo visual (o que aparece na tela)
 
 ---
 ---
+
+# PARTE 2: AULA 2 — INCLUSÃO DIGITAL, FERRAMENTAS WEB E PRODUTIVIDADE
+### Oficinas Práticas (Turma 1 Iniciante & Turma 2 Avançado) | 7 horas por turma | 100% no navegador
+
+A **Aula 2** complementa o aprendizado com foco em atividades práticas e colaborativas executadas 100% no navegador (sem necessidade de instalação local de programas) e exercícios aplicados com planilhas reais.
+
+- **Arquivos de apoio:**
+  - 📄 `Educafro_aula2_iniciante.pdf` — *Turma 1: Primeiros passos no computador (Mouse, Teclado e Internet)*
+  - 📄 `Educafro_aula2_avancado.pdf` — *Turma 2: Planilhas e apresentações (Fórmulas, PROCV e Slides)*
+  - 📊 `Aula2-Excel.xlsx` — *Planilha com exercícios práticos de fórmulas, funções lógicas e base de dados de veículos*
+
+---
+
+## 🛠️ Ferramentas Web e Links da Aula 2
+
+| Ferramenta | Link | Propósito |
+| :--- | :--- | :--- |
+| **CryptPad Slide** | [cryptpad.fr/slide/](https://cryptpad.fr/slide/) | Apresentações |
+| **Excalidraw** | [excalidraw.com](https://excalidraw.com) | Diagramas |
+| **EtherCalc** | [ethercalc.net](https://ethercalc.net) | Planilhas |
+| **CryptPad Sheet** | [cryptpad.fr/sheet/](https://cryptpad.fr/sheet/) | Planilhas |
+| **AgileFingers** | [agilefingers.com/pt](https://agilefingers.com/pt) | Digitação |
+| **ZType** | [zty.pe](https://zty.pe) | Digitação |
+| **GCF Global** | [edu.gcfglobal.org/pt/curso-de-mouse/](https://edu.gcfglobal.org/pt/curso-de-mouse/) | Mouse |
+| **MouseAccuracy** | [mouseaccuracy.com](https://mouseaccuracy.com) | Mouse |
+
+---
+
+## 📘 TURMA 1 — Primeiros Passos no Computador (Iniciante)
+*Material de referência: `Educafro_aula2_iniciante.pdf` | Carga horária: 7 horas*
+
+> **Regra de Ouro:** *Ninguém aqui vai quebrar o computador. Você pode clicar errado. Pode fechar uma tela sem querer. Está tudo bem. Se algo desaparecer, é só me chamar.*
+
+### ⏰ Cronograma do Dia
+- **09:00 – 10:45:** Conhecendo o mouse
+- **10:45 – 11:00:** Intervalo ☕
+- **11:00 – 12:30:** Jogos de precisão com o mouse
+- **12:30 – 13:30:** Almoço 🍽️
+- **13:30 – 14:45:** O teclado e a digitação
+- **15:00 – 17:00:** Navegar na internet e encerramento
+
+### 📌 Assuntos e Módulos Abordados
+
+#### Módulo 01: O Mouse — A sua mão dentro da tela
+- **Três partes essenciais:**
+  - *Botão esquerdo:* Onde fica o dedo indicador. É o botão do "sim" e de ação.
+  - *Botão direito:* Abre o menu de opções contextuais (não confirma nada).
+  - *Rolinho do meio (Scroll):* Sobe e desce a página, como virar folhas.
+  - *Postura:* Mão relaxada em cima do mouse, sem apertar com força.
+- **Os 4 movimentos fundamentais:**
+  1. *Clique simples:* Escolher uma coisa na tela.
+  2. *Duplo clique:* Dois cliques rápidos para abrir programas e pastas.
+  3. *Clique direito:* Mostra lista de opções (fecha clicando fora).
+  4. *Arrastar e soltar:* Clicar, segurar, mover e só então soltar.
+- **Exercício 1 — Domando o mouse (40 min):**
+  - Prática guiada em [GCF Global - Curso de Mouse](https://edu.gcfglobal.org/pt/curso-de-mouse/).
+  - Exercícios de clique, duplo clique e arrastar no próprio ritmo.
+- **Exercício 2 — Caçando alvos (30 min):**
+  - Jogo de precisão em [MouseAccuracy](https://mouseaccuracy.com) (dificuldade *Easy*).
+  - Foco na precisão e controle da mão, sem se preocupar com velocidade.
+
+#### Módulo 02: O Teclado — A máquina de escrever moderna
+- **Quatro teclas principais para memorizar:**
+  - `ENTER`: Confirma a ação ("pronto, pode ir").
+  - `BACKSPACE` (`←`): Apaga a última letra digitada à esquerda.
+  - `ESPAÇO`: Separa uma palavra da outra.
+  - `SHIFT`: Segure pressionado para escrever em letra maiúscula ou símbolos superiores.
+- **Posição correta das mãos (Digitação Tátil):**
+  - Indicador esquerdo na tecla **F** e indicador direito na tecla **J** (teclas com relevo tátil para localização sem olhar).
+  - Linha base: mão esquerda em `A S D F` e mão direita em `J K L Ç`.
+- **Exercício 3 — Maratona da digitação (45 min):**
+  - Treino de digitação no [AgileFingers](https://agilefingers.com/pt).
+  - Prática de lições da linha central e digitação do nome completo 5 vezes.
+  - Jogos complementares de digitação lúdica via [ZType](https://zty.pe).
+
+#### Módulo 03: A Internet — Onde a gente digita para chegar em algum lugar
+- **A barra de endereços é o GPS:**
+  - *Sei o endereço:* Digitar o endereço exato sem espaços e teclar `Enter`.
+  - *Não sei o endereço:* Digitar o que procura na barra de busca e escolher um resultado da lista.
+- **Desafio Final:** Encontrar uma música favorita no navegador, selecionar o resultado e reproduzir o áudio.
+
+#### 📝 Cola para levar para casa (Turma 1)
+| Ação | Atalho / Comando |
+| :--- | :--- |
+| **Escolher / Selecionar** | Clique esquerdo |
+| **Abrir opções** | Clique direito |
+| **Abrir programa ou pasta** | Duplo clique |
+| **Apagar letra** | Backspace |
+| **Confirmar** | Enter |
+| **Aumentar o tamanho da letra** | `Ctrl` + `+` |
+
+---
+
+## 📗 TURMA 2 — Planilhas e Apresentações (Avançado)
+*Materiais de referência: `Educafro_aula2_avancado.pdf` e `Aula2-Excel.xlsx` | Carga horária: 7 horas*
+
+> **Proposta:** Oficina prática 100% online pelo navegador, ensinando a automatizar contas e estruturar apresentações visuais de impacto sem instalar nada na máquina.
+
+### ⏰ Cronograma do Dia
+- **09:00 – 10:45:** Estrutura da planilha e primeira tabela
+- **10:45 – 11:00:** Intervalo ☕
+- **11:00 – 12:30:** Fórmulas: `SOMA`, `MÉDIA`, `SE` e `PROCV`
+- **12:30 – 13:30:** Almoço 🍽️
+- **13:30 – 14:45:** Estrutura de uma apresentação
+- **15:00 – 17:00:** Projeto final e apresentação
+
+### 📌 Assuntos e Módulos Abordados
+
+#### Módulo 01: Planilhas em Nuvem — O caderno quadriculado que faz conta sozinho
+- **Ambientes online recomendados:** [EtherCalc](https://ethercalc.net) e [CryptPad Sheet](https://cryptpad.fr/sheet/).
+- **Conceitos Estruturais:**
+  - *Colunas:* Letras na vertical (A, B, C...).
+  - *Linhas:* Números na horizontal (1, 2, 3...).
+  - *Célula:* Encontro de coluna e linha (exemplo: coluna B com linha 2 = célula `B2`).
+- **Exercício 1 — O orçamento da casa (25 min):**
+  - Criação de cabeçalhos em `A1` ("Conta") e `B1` ("Valor").
+  - Listagem de 5 contas mensais e seus respectivos valores na coluna B.
+- **A Regra de Ouro das Fórmulas:**
+  - *Toda fórmula começa com o sinal de igual (`=`)*. O sinal avisa a planilha que se trata de uma conta e não de texto.
+  - Exemplo: `=SOMA(B2:B6)`.
+- **Fórmulas Matemáticas e Estatísticas:**
+  - `=SOMA(B2:B6)`: Soma todas as células de B2 até B6.
+  - `=MÉDIA(B2:B6)`: Calcula o valor médio dos itens.
+  - `=MÁXIMO(B2:B6)`: Retorna o maior valor (a conta mais cara).
+  - `=MÍNIMO(B2:B6)`: Retorna o menor valor (a conta mais barata).
+  - `=CONT.NÚM(B2:B6)`: Conta quantos valores numéricos existem na lista.
+  *(No EtherCalc os comandos em inglês são: `SUM`, `AVERAGE`, `MAX`, `MIN`, `COUNT`).*
+- **Lógica e Tomada de Decisão com a Função `SE`:**
+  - Sintaxe: `=SE(condição; "valor_se_verdadeiro"; "valor_se_falso")`.
+  - Exemplo: `=SE(B2>100; "CUSTO ALTO"; "DENTRO DA META")`.
+  - Regra: Sempre utilizar aspas duplas `""` para textos retornados por fórmulas.
+- **Exercício 2 — A coluna que avisa (25 min):**
+  - Criar coluna C com a fórmula `SE` para classificar contas altas/baixas, calcular o total somado e a média geral.
+
+#### Módulo 02: Pesquisa e Referência com `PROCV`
+- **Conceito:** Procurar dados na vertical (como consultar uma lista ou catálogo).
+- **Sintaxe e os 4 Parâmetros do `PROCV`:**
+  - `=PROCV(o_que_procurar; onde_procurar; qual_coluna_trazer; 0)`
+  1. *O que procurar:* O código de busca ou a célula que contém o código.
+  2. *Onde procurar:* A matriz da tabela completa (o código precisa estar na 1ª coluna).
+  3. *Qual coluna trazer:* O número da coluna de onde virá a resposta (contando da esquerda para a direita).
+  4. *O número zero (`0`):* Exige busca por correspondência exata.
+  - Exemplo: `=PROCV(2; D1:E3; 2; 0)` busca o código 2 e retorna o produto correspondente ("Feijão").
+- **Exercício 3 — A lista de compras automática (40 min):**
+  - Montar base de produtos e códigos, inserindo busca automática com `PROCV`.
+- **Exercício Prático Aplicado com `Aula2-Excel.xlsx`:**
+  - Análise da planilha de controle de frota/veículos: identificação de placas, modelos (`Mercedes-Benz`, `Volvo`, `Scania`, `DAF`), aplicação de `MÉDIA`, `MÍNIMO`, `MÁXIMO`, contagem com `CONT.NÚM` e condições `SE` (ex: "Se valor < 45k, está barato", "Somente maior 60k").
+- **Diagnóstico e Resolução de Erros Comuns:**
+  - `#NOME?`: Nome da fórmula incorreto ou em idioma diferente.
+  - `#N/D`: Código não encontrado pelo `PROCV` (verificar se está na 1ª coluna).
+  - *Aparece a fórmula em texto:* Faltou o sinal de igual `=` no início.
+  - *Resultado zerado:* Uso indevido de vírgula/ponto nos números.
+  - `Ctrl + Z`: Desfaz qualquer erro.
+
+#### Módulo 03: Apresentações Visuais na Web — Apoio Visual sem Complicação
+- **A Regra de Ouro dos Slides:**
+  - *Quem fala é você. O slide só apoia.*
+  - *Faça:* Letra grande, poucas linhas, uma ideia central por slide.
+  - *Evite:* Parágrafos inteiros, letra miúda, múltiplos assuntos na mesma tela.
+- **A Estrutura dos 3 Slides:**
+  1. *Slide 1 (Capa):* Título e nome do apresentador.
+  2. *Slide 2 (Três tópicos):* Uma linha curta para cada ponto principal.
+  3. *Slide 3 (Conclusão):* A mensagem principal que a plateia deve fixar.
+- **Ferramentas Web:**
+  - [CryptPad Slide](https://cryptpad.fr/slide/): Criação de slides rápidos em Markdown usando `---` para separar telas.
+  - [Excalidraw](https://excalidraw.com): Criação de diagramas, desenhos e esquemas visuais leves.
+- **Projeto Final da Turma 2 (60 min):**
+  - Escolher um assunto que domina (hobby, receita culinária ou profissão).
+  - Montar os 3 slides com inserção de imagem da web.
+  - Apresentação de 1 minuto para a turma.
+
+#### 📝 Cola para levar para casa (Turma 2)
+| Função / Ação | Sintaxe / Atalho |
+| :--- | :--- |
+| **Soma de valores** | `=SOMA(B2:B6)` |
+| **Média aritmética** | `=MÉDIA(B2:B6)` |
+| **Maior valor** | `=MÁXIMO(B2:B6)` |
+| **Menor valor** | `=MÍNIMO(B2:B6)` |
+| **Decisão condicional** | `=SE(B2>100; "ALTO"; "OK")` |
+| **Busca vertical** | `=PROCV(D2; D1:E3; 2; 0)` |
+| **Copiar** | `Ctrl` + `C` |
+| **Colar** | `Ctrl` + `V` |
+| **Desfazer** | `Ctrl` + `Z` |
+
+---
+---
+
 # ANEXO A — Recursos visuais a produzir
 
 ## A.1 Capturas de tela (prioridade máxima)
