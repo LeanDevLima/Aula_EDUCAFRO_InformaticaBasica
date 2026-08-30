@@ -31,7 +31,7 @@ Para facilitar a navegação durante todas as atividades práticas do dia, utili
 | **Público-Alvo** | Turma heterogênea: Jovens, Adultos, Idosos, Pessoas com TEA (Transtorno do Espectro Autista), Baixa e Alta Alfabetização Digital |
 | **Proporção Prática/Teoria** | **75% Prática Ativa / Produção** vs. **25% Exposição Dialogada / Reflexão** (Nenhuma fala contínua > 15-20 min; interação a cada 30 min) |
 | **Metodologia Central** | Andragogia (Malcolm Knowles) + Desenho Universal para a Aprendizagem (DUA) + Aprendizagem Baseada em Projetos (PBL) |
-| **Entregável Final do Aluno** | **"Portfólio Meu Futuro com IA"**: Receita de bolo com PAPO, diálogo com persona no Character.AI, arte digital no Bing, plano financeiro e caderno de estudos no NotebookLM |
+| **Entregável Final do Aluno** | **"Portfólio Meu Futuro com IA"**: Receita de bolo e culinária personalizada, diálogo com persona no Character.AI, arte digital no Bing, plano financeiro e caderno de estudos no NotebookLM |
 | **Pré-requisitos** | Nenhum conhecimento de programação. Noções básicas de teclado, mouse e navegador (vistas nas Aulas 1 e 2) |
 | **Custo de Ferramentas** | **R$ 0,00** (100% ferramentas gratuitas, com acesso direto via navegador, sem necessidade de cadastrar cartão de crédito) |
 
@@ -56,7 +56,7 @@ graph TD
     B --> B2[Diferença entre busca no Google e geração por IA]
     B --> B3[Limites: Alucinação, Privacidade e Segurança]
     
-    C --> C1[Construir prompts no método PAPO: Chef de Cozinha]
+    C --> C1[Construir prompts claros e detalhados: Chef de Cozinha]
     C --> C2[Interagir com personas e figuras históricas no Character.AI]
     C --> C3[Gerar ilustrações e artes visuais no Bing Creator]
     C --> C4[Organizar finanças e planejar investimentos com IA]
@@ -74,7 +74,7 @@ graph TD
 - **Privacidade e Proteção de Dados:** Saber identificar quais dados jamais devem ser inseridos em ferramentas públicas (senhas, CPFs, dados bancários, fotos confidenciais).
 
 ### 2.2. Habilidades (Saber Fazer)
-- **Engenharia de Prompt Descomplicada (Método PAPO):** Aplicar a fórmula **PAPO** (Papel, Ação, Público, Objetivo) instruindo a IA como Chef de Cozinha para criar receitas de bolo e cardápios sob medida.
+- **Engenharia de Prompt Descomplicada:** Saber construir comandos detalhados e contextualizados, instruindo a IA como Chef de Cozinha para criar receitas de bolo e cardápios sob medida.
 - **Diálogos com Personas:** Navegar no Character.AI para simular conversas instrutivas com personalidades históricas, mentores e grupos de interesse.
 - **Criação de Conteúdo Visual:** Gerar ilustrações, personagens, capas e cartazes a partir de comandos em texto no Bing Image Creator.
 - **Produtividade Visual:** Criar apresentações completas e cartilhas informativas em menos de dois minutos usando o Gamma App.
@@ -98,7 +98,7 @@ O cronograma organiza o dia em blocos dinâmicos com alternância entre acolhime
 | **09:00 - 09:30** (30 min) | **Abertura & Conexão** | Dinâmica Acolhedora | 5 min | 25 min | Boas-vindas, pacto de convivência e dinâmica "Onde a IA já mora no meu dia?" |
 | **09:30 - 10:15** (45 min) | **Módulo 1: O Assistente Pessoal** | Prática Guiada + Duplas | 10 min | 35 min | Primeiro contato com ChatGPT & Gemini: conversas cotidianas e digitação por voz |
 | **10:15 - 10:30** (15 min) | ☕ **Pausa Sensorial & Café** | Intervalo Ativo | 0 min | 0 min | Café, descompressão sensorial, banheiro e descanso visual de telas |
-| **10:30 - 11:15** (45 min) | **Módulo 2: O Segredo do Prompt & Chef IA** | Dinâmica + Mão na Massa | 10 min | 35 min | A Fórmula PAPO: transformando a IA em Chef Confeiteiro para receitas de bolo e culinária |
+| **10:30 - 11:15** (45 min) | **Módulo 2: O Segredo do Prompt & Chef IA** | Dinâmica + Mão na Massa | 10 min | 35 min | Como pedir certo: transformando a IA em Chef Confeiteiro para receitas de bolo e culinária |
 | **11:15 - 12:00** (45 min) | **Módulo 3: Personagens & Diálogos Vivos** | Vivência Interativa | 10 min | 35 min | Character.AI: dialogando com figuras históricas, mentores e personagens de interesse |
 | **12:00 - 13:00** (60 min) | 🍽️ **Almoço & Descompressão** | Pausa Livre | 0 min | 0 min | Alimentação, convivência, caminhada leve e descanso |
 | **13:00 - 13:45** (45 min) | **Módulo 4: O Estúdio de Arte Mágico** | Laboratório Visual | 10 min | 35 min | Bing Image Creator: gerando fotos, ilustrações, logos e cartazes com palavras |
@@ -176,37 +176,37 @@ O cronograma organiza o dia em blocos dinâmicos com alternância entre acolhime
 
 ---
 
-### ATIVIDADE 3: A Fábrica de Pedidos Perfeitos - O Método PAPO & O Chef de Cozinha com IA
+### ATIVIDADE 3: A Fábrica de Pedidos Perfeitos - O Chef de Cozinha com IA & A Arte do Prompt
 * **Tempo:** 45 minutos (10h30 - 11h15)
-* **Objetivo:** Dominar a estrutura fundamental de um bom prompt utilizando a metodologia **PAPO** (Papel, Ação, Público, Objetivo/Formato), transformando a IA em um Chef de Cozinha e Mestre Confeiteiro para criar receitas perfeitas de bolo e culinária personalizada.
-* **Materiais:** [chatgpt.com](https://chatgpt.com) ou [gemini.google.com](https://gemini.google.com), folha com a fórmula PAPO impressa.
+* **Objetivo:** Dominar a estrutura fundamental de um bom prompt (clareza, contexto e detalhes), transformando a IA em um Chef de Cozinha e Mestre Confeiteiro para criar receitas perfeitas de bolo e culinária personalizada.
+* **Materiais:** [chatgpt.com](https://chatgpt.com) ou [gemini.google.com](https://gemini.google.com).
 * **Instruções para o Professor:**
-  1. Demonstre a diferença crucial entre um pedido fraco e um pedido estruturado com o método PAPO:
+  1. Demonstre a diferença crucial entre um pedido vago e um pedido detalhado e contextualizado:
      - ❌ **Pedido Vago:** *"Me passa uma receita de bolo."* (A IA entrega algo genérico e sem detalhes).
-     - ✅ **Pedido com PAPO:** *"Aja como um renomado Chef Confeiteiro. Crie uma receita detalhada de bolo de chocolate fofinho com cobertura cremosa, para uma pessoa iniciante na cozinha, usando medidas em xícaras e explicando os segredos para a massa não solar."*
-  2. Apresente a fórmula na lousa com clareza:
-     - 🎭 **P (Papel):** Quem a IA deve fingir que é? *(Ex: "Aja como um Chef de Cozinha paciente e mestre confeiteiro")*
-     - 🎯 **A (Ação):** O que ela deve fazer exatamente? *(Ex: "Crie a receita completa de um bolo de cenoura com cobertura crocante")*
-     - 👥 **P (Público):** Para quem se destina? *(Ex: "Para um iniciante que vai fazer o lanche da família")*
-     - 📏 **O (Objetivo/Formato):** Qual o estilo e detalhes? *(Ex: "Ingredientes em xícaras/colheres, passo a passo numerado e 3 dicas de chef para não errar")*
+     - ✅ **Pedido Detalhado e Claro:** *"Aja como um renomado Chef Confeiteiro. Crie uma receita detalhada de bolo de chocolate fofinho com cobertura cremosa, para uma pessoa iniciante na cozinha, usando medidas em xícaras e explicando os segredos para a massa não solar."*
+  2. Apresente na lousa os 4 segredos para um pedido perfeito:
+     - 🎭 **Quem a IA deve ser:** Definir a profissão/papel *(Ex: "Aja como um Chef de Cozinha paciente e mestre confeiteiro")*
+     - 🎯 **O que ela deve fazer:** O prato ou receita exata *(Ex: "Crie a receita completa de um bolo de cenoura com cobertura crocante")*
+     - 👥 **Para quem é:** O público e a ocasião *(Ex: "Para um iniciante que vai fazer o lanche da família")*
+     - 📏 **Como deve ser a resposta:** Os detalhes importantes *(Ex: "Ingredientes em xícaras/colheres, passo a passo numerado e 3 dicas de chef para não errar")*
   3. Incentive a turma a experimentar variações de bolos e receitas afetivas (bolo de fubá da vovó, bolo sem lactose, bolo de milho de lata, bolo econômico de caneca).
 * **Instruções para os Alunos:**
   - "Hoje você vai contratar um Chef de Confeitaria internacional de graça no seu computador!
-  - Vamos construir o seu pedido usando a fórmula **PAPO**:
-    1. **Papel:** Peça para a IA agir como um Chef de Confeitaria premiado e atencioso.
-    2. **Ação:** Peça a receita do seu bolo favorito (chocolate, cenoura, fubá, laranja, milho) ou informe o que tem no armário.
-    3. **Público:** Diga para quem é o bolo (para as crianças, para vender pedaços no bairro, para um café da tarde).
-    4. **Objetivo:** Peça o tempo exato de forno, medidas em xícaras e o segredo de vó para a massa ficar bem fofinha!
+  - Vamos construir o seu pedido com todos os detalhes:
+    1. Peça para a IA agir como um Chef de Confeitaria premiado e atencioso.
+    2. Peça a receita do seu bolo favorito (chocolate, cenoura, fubá, laranja, milho) ou informe o que tem no armário.
+    3. Diga para quem é o bolo (para as crianças, para vender pedaços no bairro, para um café da tarde).
+    4. Peça o tempo exato de forno, medidas em xícaras e o segredo de vó para a massa ficar bem fofinha!
   - Se faltar algum ingrediente na sua casa, diga para o Chef: *'Não tenho leite, o que posso usar no lugar?'* e veja ele adaptar na hora!"
 * **Versão Individual:** Cada aluno cria a sua receita de bolo personalizada e salva o texto.
-* **Versão Colaborativa:** Em duplas, um aluno escolhe os ingredientes favoritos e o outro monta a instrução no método PAPO.
+* **Versão Colaborativa:** Em duplas, um aluno escolhe os ingredientes favoritos e o outro monta a instrução detalhada no computador.
 * **Adaptações para TEA:**
-  - Cartão estruturado tipo formulário com 4 caixas (Papel: [ ], Ação: [ ], Público: [ ], Formato: [ ]). A lógica sequencial reduz a sobrecarga de escolhas.
+  - Cartão estruturado tipo formulário com 4 caixas (Quem a IA é: [ ], O que fazer: [ ], Para quem: [ ], Detalhes: [ ]). A lógica sequencial reduz a sobrecarga de escolhas.
 * **Adaptações para Idosos:**
   - Conectar com a culinária afetiva e tradicional (bolos de milho, fubá cremoso, bolo de laranja).
   - Exemplos com letras grandes impressos para servir de guia.
 * **Desafios Avançados:** Pedir para a IA calcular o custo aproximado dos ingredientes e sugerir o preço ideal de venda por fatia para gerar renda extra.
-* **Critério de Sucesso:** Aluno aplicou os 4 elementos do PAPO e gerou uma receita de bolo completa, testando uma pergunta de substituição de ingredientes.
+* **Critério de Sucesso:** Aluno construiu um prompt detalhado e gerou uma receita de bolo completa, testando uma pergunta de substituição de ingredientes.
 * **Resultado Esperado:** Alunos empolgados compartilhando as receitas criadas e compreendendo que a precisão da resposta depende da qualidade do comando.
 
 ---
@@ -382,7 +382,7 @@ O cronograma organiza o dia em blocos dinâmicos com alternância entre acolhime
 * **Objetivo:** Apresentar as criações do dia, praticar o reconhecimento mútuo, consolidar noções de ética, direitos e segurança na era da IA e encerrar a oficina com entusiasmo e fortalecimento da autoestima.
 * **Materiais:** Projetor para exibição rápida voluntária, Guia Rápido de Bolso impresso para entrega individual.
 * **Instruções para o Professor:**
-  1. Conduza uma rodada de *Showcase Relâmpago* (15 min): convide voluntários para compartilhar sua receita com PAPO, sua imagem criada no Bing, sua apresentação no Gamma, seu plano de economia ou seu caderno no NotebookLM.
+  1. Conduza uma rodada de *Showcase Relâmpago* (15 min): convide voluntários para compartilhar sua receita de bolo personalizada, sua imagem criada no Bing, sua apresentação no Gamma, seu plano de economia ou seu caderno no NotebookLM.
   2. Puxe uma breve conversa ética e cidadã de 5 minutos sobre responsabilidade digital:
      - *"A máquina não tem coração nem ética; quem tem é você! Use a IA para criar coisas boas, espalhar a verdade e apoiar sua comunidade."*
      - *"Atenção contra Fake News e Deepfakes: se receber um vídeo, áudio ou texto estranho nas redes, desconfie, cheque em fontes confiáveis como o WeLib e nunca passe adiante sem ter certeza."*
@@ -410,7 +410,7 @@ Todas as ferramentas selecionadas atendem rigorosamente aos critérios: **Versã
 
 | Categoria | Ferramenta | Link Direto | O que faz em 1 frase simples | Requisitos / Acesso | Sugestão de Atividade Curta (5-10 min) |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Assistente & Texto** | **ChatGPT** | [chatgpt.com](https://chatgpt.com) | Um assistente inteligente que conversa, cria textos, ensina receitas com o método PAPO e dá conselhos. | Funciona em PC e Celular (Conta Google/E-mail) | Pedir uma receita de bolo fofinho com 3 ingredientes ou um plano de corte de gastos. |
+| **Assistente & Texto** | **ChatGPT** | [chatgpt.com](https://chatgpt.com) | Um assistente inteligente que conversa, cria textos, ensina receitas personalizadas e dá conselhos. | Funciona em PC e Celular (Conta Google/E-mail) | Pedir uma receita de bolo fofinho com 3 ingredientes ou um plano de corte de gastos. |
 | **Assistente & Pesquisa** | **Google Gemini** | [gemini.google.com](https://gemini.google.com) | O assistente do Google que busca informações atualizadas na internet e organiza orçamentos. | Login direto com conta Gmail existente | Organizar uma renda de R$ 1.800 na regra 50-30-20 e sugerir metas de poupança. |
 | **Personas & Diálogos** | **Character.AI** | [https://character.ai/](https://character.ai/) | Permite conversar com personas de personalidades históricas, autores e mentores em tempo real. | Acesso gratuito direto no navegador | Entrevistar Carolina Maria de Jesus ou Machado de Assis sobre a importância da leitura. |
 | **Geração de Imagens** | **Bing Image Creator (Designer)** | [bing.com/create](https://www.bing.com/create) | Desenha qualquer imagem, foto ou ilustração que você descrever com palavras em segundos. | Conta Microsoft (Hotmail/Outlook gratuita) | Criar o logotipo dos seus sonhos para uma confeitaria ou serviço comunitário. |
@@ -480,7 +480,7 @@ Para que os alunos rápidos não fiquem entediados e os iniciantes não fiquem a
 │    atua como monitor voluntário ajudando os colegas.        │
 ├─────────────────────────────────────────────────────────────┤
 │ 🥈 NÍVEL PRATA (Intermediário / Aplicação Direta):          │
-│    Aplica a fórmula completa (PAPO), gera variações e salva │
+│    Constrói prompts detalhados, gera variações e salva      │
 │    o material formatado no computador.                      │
 ├─────────────────────────────────────────────────────────────┤
 │ 🥉 NÍVEL BRONZE (Essencial / Todos Realizam):               │
@@ -560,7 +560,7 @@ Para que os alunos rápidos não fiquem entediados e os iniciantes não fiquem a
 - [ ] **09h00:** Recepção calorosa na porta, entrega do crachá e post-its.
 - [ ] **09h30:** Verificar se todos conseguiram abrir o primeiro assistente (ChatGPT/Gemini); acionar 'Anjos da Guarda' para quem travou.
 - [ ] **10h15:** Cumprir pontualmente o intervalo do café (15 min) para descanso cognitivo.
-- [ ] **10h30:** Conduzir a atividade do Chef de Cozinha com a fórmula PAPO (receitas de bolo).
+- [ ] **10h30:** Conduzir a atividade do Chef de Cozinha com pedidos e prompts detalhados (receitas de bolo).
 - [ ] **11h15:** Apresentar Character.AI e guiar diálogos com figuras históricas e mentores.
 - [ ] **12h00:** Garantir que todos salvaram seus textos antes de sair para o almoço.
 - [ ] **13h00:** Retorno acolhedor com criação visual no Bing Image Creator.
@@ -601,21 +601,21 @@ Para que os alunos rápidos não fiquem entediados e os iniciantes não fiquem a
 
 ---
 
-### 10.2. Mini-Guia de Bolso 'A Fórmula do Prompt Perfeito' (Material para Impressão)
+### 10.2. Mini-Guia de Bolso 'A Fórmula do Pedido Perfeito' (Material para Impressão)
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
 ║             EDUCAFRO - GUIA RÁPIDO DO PROMPT PERFEITO                ║
-║                      "O SEGREDO DO P.A.P.O."                         ║
+║                 "OS 4 SEGREDOS DO PEDIDO PERFEITO"                   ║
 ╠══════════════════════════════════════════════════════════════════════╣
 ║                                                                      ║
-║  🎭 P - PAPEL:      "Aja como um [Chef / Professor / Mentor]..."     ║
+║  🎭 1. QUEM A IA É:     "Aja como um [Chef / Professor / Mentor]..." ║
 ║                                                                      ║
-║  🎯 A - AÇÃO:       "Crie / Calcule / Planeje / Escreva [tarefa]..." ║
+║  🎯 2. O QUE FAZER:     "Crie / Calcule / Planeje / Escreva [tarefa]"║
 ║                                                                      ║
-║  👥 P - PÚBLICO:    "Para [iniciantes / minha família / clientes]..."║
+║  👥 3. PARA QUEM É:     "Para [iniciantes / família / clientes]..."  ║
 ║                                                                      ║
-║  📏 O - OBJETIVO:   "Em tom [didático/acolhedor], com [detalhes]..." ║
+║  📏 4. COMO RESPONDER:  "Em tom [acolhedor], com medidas em [xícaras]║
 ║                                                                      ║
 ╠══════════════════════════════════════════════════════════════════════╣
 ║  💡 DICA DE OURO: Se a resposta não ficou boa, não desista!          ║

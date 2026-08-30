@@ -10,7 +10,7 @@ Repositório com materiais de apoio, roteiros de aula, planilhas práticas e gui
 | :--- | :--- | :--- |
 | **Aula 1** | **Informática Básica para Adultos Iniciantes**<br>Curso de 8 horas (Turnos 1 e 2) cobrindo fundamentos de hardware, mouse, teclado, arquivos/pastas, editor de texto, internet, e-mail, planilhas e segurança digital. | - `Informatica_Basica_Adultos.pdf`<br>- `Informatica_Basica_Adultos.pptx` |
 | **Aula 2** | **Inclusão Digital, Ferramentas Web e Produtividade**<br>Oficinas práticas divididas em Turma 1 (Iniciante: mouse, digitação e internet) e Turma 2 (Avançado: planilhas em nuvem, fórmulas, PROCV, SE e apresentações). | - `Educafro_aula2_iniciante.pdf`<br>- `Educafro_aula2_avancado.pdf`<br>- `Aula2-Excel.xlsx` |
-| **Aula 3** | **Inteligência Artificial Prática, Inclusiva e Cotidiana**<br>Curso presencial de 8 horas (09h00 às 17h00) com foco total na prática (>70%), chatbots, geração de imagens, composição musical com Suno AI, edição de fotos, apresentações com Gamma e Hackathon Social inclusivo. | - AULA_3_INTELIGENCIA_ARTIFICIAL.md |
+| **Aula 3** | **Inteligência Artificial Prática, Inclusiva e Cotidiana**<br>Curso presencial de 8 horas (09h00 às 17h00) com foco total na prática (>70%), chatbots, geração de imagens, composição musical com Suno AI, edição de fotos, apresentações com Gamma e Hackathon Social inclusivo. | - `AULA_3_INTELIGENCIA_ARTIFICIAL.md` |
 
 ---
 
