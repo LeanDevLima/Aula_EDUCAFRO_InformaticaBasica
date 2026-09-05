@@ -12,6 +12,7 @@ Bem-vindo(a) ao repositório oficial do curso! Este material foi preparado para 
 - [Aula 1: O Computador sem Medo & Primeiros Passos](#-aula-1--o-computador-sem-medo--primeiros-passos)
 - [Aula 2: Inclusão Digital, Ferramentas Web e Produtividade](#-aula-2--inclusão-digital-ferramentas-web-e-produtividade)
 - [Aula 3: Inteligência Artificial Prática e Cotidiana](#-aula-3--inteligência-artificial-prática-e-cotidiana)
+- [Aula 4: Síntese, Autonomia e o Grande Desafio Final](#-aula-4--síntese-autonomia-e-o-grande-desafio-final)
 - [⌨️ Cola Rápida de Atalhos do Teclado](#️-cola-rápida-de-atalhos-do-teclado)
 - [🔗 Tabela Geral de Links e Ferramentas Gratuitas](#-tabela-geral-de-links-e-ferramentas-gratuitas)
 
@@ -137,6 +138,23 @@ Quanto mais claro e detalhado for o seu pedido, melhor será a resposta do robô
 ### 4. Cuidados Essenciais e Segurança Digital
 - 🔒 **Privacidade:** **NUNCA** digite senhas de banco, código de cartão de crédito ou números de documentos secretos (como CPF) em assistentes públicos de IA.
 - 🧠 **Espírito Crítico (Alucinação):** A IA pode às vezes se confundir e inventar informações falsas. O ser humano é **sempre o revisor e validador final** de tudo o que a máquina escreve.
+
+---
+
+# 🚀 Aula 4 — Síntese, Autonomia e o Grande Desafio Final
+
+A aula de encerramento integra todos os conhecimentos adquiridos ao longo da jornada em um **Projeto Integrador Prático**, consolidando a autonomia digital e celebrando a conquista da turma:
+
+- **Aquecimento & Ginástica dos Dedos:** Treino de digitação no [AgileFingers](https://agilefingers.com/pt) e no jogo [ZType](https://zty.pe).
+- **Roda da Memória Viva:** Revisão dialogada dos conceitos de Hardware, Mouse, Atalhos, Planilhas (`=SOMA`, `=MÉDIA`, `=MÁXIMO`), Prompts de IA e Segurança.
+- **O Desafio Final ("Meu Futuro Digital"):**
+  1. *Organização de Pastas:* Criação e nomenclatura padronizada de pastas no computador (Aula 1).
+  2. *Ideação com IA:* Geração de slogans, nomes de projeto e textos de divulgação no ChatGPT e Gemini (Aula 3).
+  3. *Orçamento em Planilha:* Montagem da tabela de despesas com fórmulas automáticas de `=SOMA` e `=MÉDIA` (Aula 2).
+  4. *Identidade Visual & Slides:* Geração de logotipos/ilustrações no Bing Image Creator e slides express no Gamma App (Aulas 2 e 3).
+- **Mostra de Autonomia & Formatura:** Apresentação comunitária dos projetos de cada estudante e entrega solene dos Certificados EDUCAFRO.
+
+> 📄 **Plano de Aula Completo:** Consulte o arquivo detalhado em [AULA_4.md](AULA_4.md).
 
 ---
 
