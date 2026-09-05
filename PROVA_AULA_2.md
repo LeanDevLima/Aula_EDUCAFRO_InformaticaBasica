@@ -1,11 +1,12 @@
 # CURSO EDUCAFRO — INFORMÁTICA BÁSICA & INCLUSÃO DIGITAL
 ## AVALIAÇÃO DE CONHECIMENTOS — AULA 2
 ### Inclusão Digital, Ferramentas Web e Produtividade
+**Elaborado por:** [Leanderson Dias de Lima](https://www.linkedin.com/in/leanderson-dias-de-lima/)
 
 ---
 
 **Nome do(a) Aluno(a):** _________________________________________________________________  
-**Data:** ____ / ____ / ________ &nbsp;&nbsp;|&nbsp;&nbsp; **Turma:** ___________________________ &nbsp;&nbsp;|&nbsp;&nbsp; **Nota:** _________  |&nbsp;&nbsp; **Professor:** __________________ 
+**Data:** ____ / ____ / ________ &nbsp;&nbsp;|&nbsp;&nbsp; **Turma:** ___________________________ &nbsp;&nbsp;|&nbsp;&nbsp; **Nota:** _________  |&nbsp;&nbsp; **Professor:** Leanderson Dias de Lima 
 
 ---
 
@@ -139,4 +140,13 @@ Preencha com um **X** a opção escolhida em cada questão:
 8. **C** — *A função `=SOMA()` adiciona todos os valores numéricos contidos no intervalo de células informado.*
 9. **A** — *O atalho `Ctrl` + `Z` desfaz a última ação realizada, permitindo corrigir deslizes com segurança.*
 10. **B** — *Bons slides contêm pouco texto, fontes grandes e mensagens diretas, servindo como apoio para a pessoa que fala.*
+
+---
+
+## 🤝 Autoria & Contato
+
+> ✍️ **Avaliação desenvolvida por:** **Leanderson Dias de Lima**  
+> 🌐 **LinkedIn:** [linkedin.com/in/leanderson-dias-de-lima](https://www.linkedin.com/in/leanderson-dias-de-lima/)  
+>  
+> Este material didático e avaliativo foi criado para promover a inclusão digital e a autoavaliação acolhedora de estudantes. Se você atua com educação, projetos comunitários ou deseja trocar experiências pedagógicas, **conecte-se comigo no LinkedIn!** Fique à vontade para mandar uma mensagem e entrar em contato sempre que achar necessário.
 

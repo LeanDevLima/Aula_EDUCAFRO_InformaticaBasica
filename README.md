@@ -1,5 +1,6 @@
 # 🎓 Curso EDUCAFRO — Informática Básica e Inclusão Digital
 ### 📚 Guia de Estudos e Revisão das Aulas
+**Autor e Instrutor:** [Leanderson Dias de Lima](https://www.linkedin.com/in/leanderson-dias-de-lima/)
 
 Bem-vindo(a) ao repositório oficial do curso! Este material foi preparado para que você possa **revisar no seu ritmo** tudo o que aprendemos e praticamos em sala de aula.
 
@@ -15,6 +16,7 @@ Bem-vindo(a) ao repositório oficial do curso! Este material foi preparado para 
 - [Aula 4: Síntese, Autonomia e o Grande Desafio Final](#-aula-4--síntese-autonomia-e-o-grande-desafio-final)
 - [⌨️ Cola Rápida de Atalhos do Teclado](#️-cola-rápida-de-atalhos-do-teclado)
 - [🔗 Tabela Geral de Links e Ferramentas Gratuitas](#-tabela-geral-de-links-e-ferramentas-gratuitas)
+- [🤝 Sobre o Autor & Conecte-se](#-sobre-o-autor--conecte-se)
 
 ---
 
@@ -203,3 +205,13 @@ Todas as plataformas utilizadas no curso são **100% gratuitas** e funcionam dir
 > *"A tecnologia não pertence apenas a quem tem diplomas técnicos ou equipamentos caros: ela é um instrumento de cidadania, emancipação, trabalho e autonomia popular."*  
 >  
 > Parabéns pela sua dedicação, coragem e perseverança ao longo de todas as aulas. **Continue praticando todos os dias**, compartilhando o que aprendeu com a sua família e nunca deixe de ocupar os seus espaços!
+
+---
+
+# 🤝 Sobre o Autor & Conecte-se
+
+Este material didático e repositório foram idealizados, estruturados e elaborados por **Leanderson Dias de Lima** para as oficinas do curso de **Informática Básica e Inclusão Digital da EDUCAFRO**.
+
+Se este conteúdo foi útil para você, para a sua comunidade, escola ou projeto social:
+- 🌐 **Conecte-se comigo no LinkedIn:** [linkedin.com/in/leanderson-dias-de-lima](https://www.linkedin.com/in/leanderson-dias-de-lima/)
+- 💬 **Vamos conversar!** Sinta-se incentivado(a) a entrar em contato para tirar dúvidas, trocar experiências sobre inclusão digital, educação popular e tecnologia, dar sugestões ou construir novas parcerias e projetos em conjunto. Toda conexão em prol da democratização do conhecimento é muito bem-vinda!

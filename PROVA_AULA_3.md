@@ -1,11 +1,12 @@
 # CURSO EDUCAFRO — INFORMÁTICA BÁSICA & INCLUSÃO DIGITAL
 ## AVALIAÇÃO DE CONHECIMENTOS — AULA 3
 ### Inteligência Artificial Prática, Inclusiva e Cotidiana
+**Elaborado por:** [Leanderson Dias de Lima](https://www.linkedin.com/in/leanderson-dias-de-lima/)
 
 ---
 
 **Nome do(a) Aluno(a):** _________________________________________________________________  
-**Data:** ____ / ____ / ________ &nbsp;&nbsp;|&nbsp;&nbsp; **Turma:** ___________________________ &nbsp;&nbsp;|&nbsp;&nbsp; **Nota:** _________  |&nbsp;&nbsp; **Professor:** ________________  
+**Data:** ____ / ____ / ________ &nbsp;&nbsp;|&nbsp;&nbsp; **Turma:** ___________________________ &nbsp;&nbsp;|&nbsp;&nbsp; **Nota:** _________  |&nbsp;&nbsp; **Professor:** Leanderson Dias de Lima 
 
 
 ---
@@ -140,6 +141,15 @@ Preencha com um **X** a opção escolhida em cada questão:
 8. **B)** Ajudando a montar a tabela do orçamento doméstico, identificando gastos a economizar e explicando investimentos seguros.
 9. **A)** Porque ele responde às perguntas se baseando estritamente nos livros e PDFs que **nós enviamos**, citando a página da fonte.
 10. **B)** A IA pode se enganar ou criar respostas imprecisas; por isso nós, seres humanos, somos sempre os validadores e revisores finais.
+
+---
+
+## 🤝 Autoria & Contato
+
+> ✍️ **Avaliação desenvolvida por:** **Leanderson Dias de Lima**  
+> 🌐 **LinkedIn:** [linkedin.com/in/leanderson-dias-de-lima](https://www.linkedin.com/in/leanderson-dias-de-lima/)  
+>  
+> Este material de avaliação formativa foi elaborado para apoiar turmas populares de inclusão digital e inteligência artificial cotidiana. Se você gostou desta prova, quer aplicá-la em seu projeto ou trocar experiências sobre educação e tecnologia popular, **conecte-se comigo no LinkedIn!** Sinta-se incentivado(a) a entrar em contato para construirmos redes de colaboração.
 
 
 

@@ -1,6 +1,7 @@
 # CURSO EDUCAFRO — INFORMÁTICA BÁSICA & INCLUSÃO DIGITAL
 ## AULA 4: SÍNTESE, AUTONOMIA E O GRANDE DESAFIO FINAL INTEGRADO
 ### Guia Completo do Instrutor e Plano de Aula Presencial (09h00 às 17h00)
+**Elaborado por:** [Leanderson Dias de Lima](https://www.linkedin.com/in/leanderson-dias-de-lima/)
 
 ---
 
@@ -31,6 +32,7 @@ Para facilitar o acesso rápido dos alunos nas atividades práticas do dia, mant
 | Parâmetro | Especificação Pedagógica |
 | :--- | :--- |
 | **Instituição / Projeto** | EDUCAFRO — Inclusão Digital, Cidadania e Tecnologia Popular |
+| **Elaboração / Autoria** | **Leanderson Dias de Lima** ([LinkedIn](https://www.linkedin.com/in/leanderson-dias-de-lima/)) |
 | **Módulo** | Aula 4: Conclusão, Revisão Geral e Grande Desafio Integrador |
 | **Carga Horária** | 8 horas presenciais (Turno Manhã: 09h00–12h30 \| Turno Tarde: 13h30–17h00) |
 | **Público-Alvo** | Turma intergeracional: Jovens, Adultos, Idosos, Pessoas com TEA (Transtorno do Espectro Autista) e diferentes ritmos de aprendizagem |
@@ -347,3 +349,13 @@ Para garantir que a turma heterogênea participe em condições plenas de dignid
 > Nunca pare de aprender, ensine o que aprendeu a quem precisa e ocupe todos os espaços com a cabeça erguida!"*  
 >  
 > **Viva a Educação Popular! Viva a EDUCAFRO! Parabéns pela sua Formatura!** 🎓✨
+
+---
+
+## 🤝 8. AUTORIA, CONEXÃO & CONTATO
+
+> ✍️ **Plano de aula e material pedagógico desenvolvidos por:** **Leanderson Dias de Lima**  
+> 🌐 **LinkedIn Oficial:** [linkedin.com/in/leanderson-dias-de-lima](https://www.linkedin.com/in/leanderson-dias-de-lima/)  
+>  
+> Se você é educador(a), liderança de projeto social, estudante ou entusiasta da inclusão digital e da tecnologia popular, **conecte-se comigo no LinkedIn!**  
+> Sinta-se à vontade para entrar em contato caso precise tirar dúvidas sobre a aplicação desta aula, queira compartilhar feedbacks ou trocar experiências sobre metodologias ativas e inclusivas de ensino. Toda conexão que fortalece a educação é muito bem-vinda!

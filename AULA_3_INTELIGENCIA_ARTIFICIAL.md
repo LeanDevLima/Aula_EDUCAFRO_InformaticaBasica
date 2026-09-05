@@ -1,6 +1,7 @@
 # CURSO EDUCAFRO - INFORMÁTICA BÁSICA & INCLUSÃO DIGITAL
 ## AULA 3: INTELIGÊNCIA ARTIFICIAL PRÁTICA, INCLUSIVA E COTIDIANA
 ### Guia Completo do Instrutor e Plano de Aula Presencial (8 Horas: 09h00 às 17h00)
+**Elaborado por:** [Leanderson Dias de Lima](https://www.linkedin.com/in/leanderson-dias-de-lima/)
 
 ---
 
@@ -26,6 +27,7 @@ Para facilitar a navegação durante todas as atividades práticas do dia, utili
 | Parâmetro | Especificação do Treinamento |
 | :--- | :--- |
 | **Curso / Projeto** | EDUCAFRO - Inclusão Digital, Cidadania e Tecnologia Popular |
+| **Elaboração / Autoria** | **Leanderson Dias de Lima** ([LinkedIn](https://www.linkedin.com/in/leanderson-dias-de-lima/)) |
 | **Módulo** | Aula 3: Inteligência Artificial no Cotidiano - Da Curiosidade à Criação |
 | **Carga Horária** | 8 horas presenciais (Turno Matutino: 09h00–12h00 | Turno Vespertino: 13h00–17h00) |
 | **Público-Alvo** | Turma heterogênea: Jovens, Adultos, Idosos, Pessoas com TEA (Transtorno do Espectro Autista), Baixa e Alta Alfabetização Digital |
@@ -629,3 +631,12 @@ Para que os alunos rápidos não fiquem entediados e os iniciantes não fiquem a
 - **Prática Diária de 5 Minutos:** Usar a IA para tirar uma dúvida culinária, ajudar na lição de casa dos filhos, organizar uma conta ou redigir uma mensagem de trabalho.
 - **Leituras Gratuitas no WeLib:** Baixar livros de interesse no [https://pt.welib.org/](https://pt.welib.org/) e usar o [NotebookLM](https://notebook.google/?hl=pt-BR) para tirar dúvidas e estudar no seu ritmo.
 - **Apoio Contínuo da Comunidade:** Manter o grupo de WhatsApp da turma ativo como espaço seguro para tirar dúvidas, compartilhar descobertas e celebrar novas conquistas.
+
+---
+
+## 🤝 11. AUTORIA, CONEXÃO & CONTATO
+
+> ✍️ **Plano de aula e metodologia desenvolvidos por:** **Leanderson Dias de Lima**  
+> 🌐 **LinkedIn:** [linkedin.com/in/leanderson-dias-de-lima](https://www.linkedin.com/in/leanderson-dias-de-lima/)  
+>  
+> Este guia foi elaborado para democratizar o entendimento e a prática da Inteligência Artificial em comunidades e projetos sociais. Se você gostou desta proposta, deseja adaptá-la para a sua realidade ou trocar ideias sobre tecnologia acessível e educação inclusiva, **conecte-se comigo no LinkedIn!** Sinta-se incentivado(a) a entrar em contato sempre que precisar.
