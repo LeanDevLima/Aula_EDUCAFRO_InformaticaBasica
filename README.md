@@ -1,26 +1,83 @@
-# 🎓 Curso EDUCAFRO — Informática Básica e Inclusão Digital
-### 📚 Guia de Estudos e Revisão das Aulas
+# 🎓 Curso EDUCAFRO  Informática Básica e Inclusão Digital
+### 📚 Guia de Estudos, Registros e Materiais das Aulas
 **Autor e Instrutor:** [Leanderson Dias de Lima](https://www.linkedin.com/in/leanderson-dias-de-lima/)
 
-Bem-vindo(a) ao repositório oficial do curso! Este material foi preparado para que você possa **revisar no seu ritmo** tudo o que aprendemos e praticamos em sala de aula.
+![Status: Concluído](https://img.shields.io/badge/Status-Conclu%C3%ADdo%20com%20Sucesso-brightgreen?style=for-the-badge&logo=checkmarx)
+![EDUCAFRO](https://img.shields.io/badge/-EDUCAFRO-blue?style=for-the-badge)
+
+---
+
+## 🏁 Conclusão do Curso & Mensagem de Agradecimento
+
+É com enorme alegria, emoção e sensação de dever cumprido que registro aqui: **as nossas aulas do Curso de Informática Básica e Inclusão Digital da EDUCAFRO foram concluídas com pleno sucesso!** 🎉
+
+Gostaria de deixar registrado o meu mais profundo e sincero agradecimento a cada aluna e a cada aluno que esteve conosco durante toda essa caminhada. Compartilhar esses sábados e momentos de aprendizado, trocar experiências de vida e construir juntos esse conhecimento foi uma verdadeira honra e um privilégio para mim.
+
+Meu muito obrigado a todas e todos pela confiança, pelo carinho e pela jornada inesquecível! ✊🏿💻✨
+
+---
+
+## 📸 Registros da Nossa Turma
+
+Estes registros eternizam a nossa trajetória, a união e a vitória coletiva de todos os formandos:
+
+![Turma do Curso de Informática Básica EDUCAFRO reunida com o instrutor em frente ao mural](image.png)
+*Nossa querida turma reunida com orgulho em frente à bandeira da EDUCAFRO, celebrando o aprendizado e a superação.*
+
+![Momento de confraternização e encerramento das aulas da turma EDUCAFRO](image1.jpeg)
+*Sorrisos que simbolizam o companheirismo, a persistência e a conquista da autonomia digital.*
+
+---
+
+## 🧭 Sumário de Navegação
+- [📖 Sobre o Projeto](#-sobre-o-projeto)
+- [🏁 Conclusão do Curso & Agradecimento](#-conclusão-do-curso--mensagem-de-agradecimento)
+- [📸 Registros da Nossa Turma](#-registros-da-nossa-turma)
+- [💻 Como Utilizar os Materiais deste Repositório](#-como-utilizar-os-materiais-deste-repositório)
+- [🖥️ Aula 1: O Computador sem Medo & Primeiros Passos](#-aula-1--o-computador-sem-medo--primeiros-passos)
+- [📊 Aula 2: Inclusão Digital, Ferramentas Web e Produtividade](#-aula-2--inclusão-digital-ferramentas-web-e-produtividade)
+- [🤖 Aula 3: Inteligência Artificial Prática e Cotidiana](#-aula-3--inteligência-artificial-prática-e-cotidiana)
+- [🚀 Aula 4: Síntese, Autonomia e o Grande Desafio Final](#-aula-4--síntese-autonomia-e-o-grande-desafio-final)
+- [⌨️ Cola Rápida de Atalhos do Teclado](#️-cola-rápida-de-atalhos-do-teclado)
+- [🔗 Tabela Geral de Links e Ferramentas Gratuitas](#-tabela-geral-de-links-e-ferramentas-gratuitas)
+- [🤝 Sobre o Autor & Conecte-se](#-sobre-o-autor--conecte-se)
+- [📄 Licença](#-licença)
+
+---
+
+## 📖 Sobre o Projeto
+
+O curso de **Informática Básica e Inclusão Digital** foi desenvolvido voluntariamente no âmbito da **EDUCAFRO**, visando democratizar o acesso às tecnologias contemporâneas para um público intergeracional (jovens, adultos, idosos e pessoas com diferentes ritmos de aprendizagem). 
+
+Com uma abordagem humanizada, prática e focada no cotidiano, as oficinas abordaram desde o funcionamento físico do computador e a navegação segura na internet até o uso prático de planilhas eletrônicas e assistentes de Inteligência Artificial generativa, culminando na apresentação de projetos práticos e autônomos.
 
 > 🌟 **Nossa Regra de Ouro:**  
 > **Você não vai quebrar o computador!** O computador não é de vidro. Você pode clicar, pode explorar e pode errar sem medo. Se fizer algo sem querer, quase tudo tem conserto com o atalho mágico `Ctrl` + `Z`!
 
 ---
 
-## 🧭 Sumário Rápido de Navegação
-- [Aula 1: O Computador sem Medo & Primeiros Passos](#-aula-1--o-computador-sem-medo--primeiros-passos)
-- [Aula 2: Inclusão Digital, Ferramentas Web e Produtividade](#-aula-2--inclusão-digital-ferramentas-web-e-produtividade)
-- [Aula 3: Inteligência Artificial Prática e Cotidiana](#-aula-3--inteligência-artificial-prática-e-cotidiana)
-- [Aula 4: Síntese, Autonomia e o Grande Desafio Final](#-aula-4--síntese-autonomia-e-o-grande-desafio-final)
-- [⌨️ Cola Rápida de Atalhos do Teclado](#️-cola-rápida-de-atalhos-do-teclado)
-- [🔗 Tabela Geral de Links e Ferramentas Gratuitas](#-tabela-geral-de-links-e-ferramentas-gratuitas)
-- [🤝 Sobre o Autor & Conecte-se](#-sobre-o-autor--conecte-se)
+## 💻 Como Utilizar os Materiais deste Repositório
+
+Você pode estudar este material online pelo próprio navegador ou baixar os arquivos para praticar no seu computador:
+
+### 1. Visualização Online Direta (GitHub)
+- Navegue pelos arquivos `.md` listados no sumário acima para ler resumos, tabelas de atalhos e roteiros didáticos.
+- Acesse os planos e atividades detalhadas:
+  - [AULA_3_INTELIGENCIA_ARTIFICIAL.md](AULA_3_INTELIGENCIA_ARTIFICIAL.md)  Guia de Inteligência Artificial Prática.
+  - [AULA_4.md](AULA_4.md)  Plano de Aula e Desafio Final Integrado.
+  - [PROVA_AULA_2.md](PROVA_AULA_2.md) e [PROVA_AULA_3.md](PROVA_AULA_3.md)  Atividades de fixação e autoavaliação.
+
+### 2. Download e Abertura Local
+Para baixar todos os arquivos para o seu computador:
+1. Clique no botão verde **`Code`** no canto superior direito deste repositório no GitHub.
+2. Selecione **`Download ZIP`** e extraia os arquivos na sua Área de Trabalho ou pasta de preferência.
+3. Para abrir as apresentações e planilhas:
+   - Apresentações: arquivos `.pptx` ou `.pdf` (compatíveis com PowerPoint, LibreOffice Impress ou Google Apresentações).
+   - Planilhas: arquivo [`Aula2-Excel.xlsx`](Aula2-Excel.xlsx) (compatível com Excel, Calc, Google Planilhas ou CryptPad).
 
 ---
 
-# 🖥️ Aula 1 — O Computador sem Medo & Primeiros Passos
+## 🖥️ Aula 1  O Computador sem Medo & Primeiros Passos
 
 ### 1. As Partes do Computador
 | Peça | O que ela faz | É como se fosse... |
@@ -70,7 +127,7 @@ Bem-vindo(a) ao repositório oficial do curso! Este material foi preparado para 
 
 ---
 
-# 📊 Aula 2 — Inclusão Digital, Ferramentas Web e Produtividade
+## 📊 Aula 2  Inclusão Digital, Ferramentas Web e Produtividade
 
 ### 1. Planilhas Eletrônicas (Excel, EtherCalc e CryptPad Sheet)
 Uma planilha é como um caderno quadriculado inteligente que faz contas sozinho.
@@ -85,12 +142,12 @@ Uma planilha é como um caderno quadriculado inteligente que faz contas sozinho.
 > Se você esquecer do `=`, a planilha acha que é apenas um texto e não calcula a conta!
 
 #### Principais Fórmulas Práticas:
-- **Somar Valores:** `=SOMA(B2:B6)` — Soma todos os números de B2 até B6.
-- **Média dos Gastos:** `=MÉDIA(B2:B6)` — Calcula o valor médio da lista.
-- **Maior Valor (Conta mais cara):** `=MÁXIMO(B2:B6)` — Mostra o número mais alto.
-- **Menor Valor (Conta mais barata):** `=MÍNIMO(B2:B6)` — Mostra o menor número.
-- **Contar Itens:** `=CONT.NÚM(B2:B6)` — Conta quantos números existem na lista.
-- **Decisão Lógica com SE:** `=SE(B2>100; "CUSTO ALTO"; "DENTRO DA META")` — Avalia se a conta ultrapassou o limite estipulado.
+- **Somar Valores:** `=SOMA(B2:B6)`  Soma todos os números de B2 até B6.
+- **Média dos Gastos:** `=MÉDIA(B2:B6)`  Calcula o valor médio da lista.
+- **Maior Valor (Conta mais cara):** `=MÁXIMO(B2:B6)`  Mostra o número mais alto.
+- **Menor Valor (Conta mais barata):** `=MÍNIMO(B2:B6)`  Mostra o menor número.
+- **Contar Itens:** `=CONT.NÚM(B2:B6)`  Conta quantos números existem na lista.
+- **Decisão Lógica com SE:** `=SE(B2>100; "CUSTO ALTO"; "DENTRO DA META")`  Avalia se a conta ultrapassou o limite estipulado.
 
 ---
 
@@ -105,7 +162,7 @@ Uma planilha é como um caderno quadriculado inteligente que faz contas sozinho.
 
 ---
 
-# 🤖 Aula 3 — Inteligência Artificial Prática e Cotidiana
+## 🤖 Aula 3  Inteligência Artificial Prática e Cotidiana
 
 ### 1. O que é a Inteligência Artificial (IA)?
 A Inteligência Artificial (como o **ChatGPT** e o **Google Gemini**) funciona como um assistente prestativo e gratuito que leu milhões de livros e exemplos na internet e responde perguntas em linguagem natural, como se estivesse conversando no WhatsApp.
@@ -143,9 +200,9 @@ Quanto mais claro e detalhado for o seu pedido, melhor será a resposta do robô
 
 ---
 
-# 🚀 Aula 4 — Síntese, Autonomia e o Grande Desafio Final
+## 🚀 Aula 4  Síntese, Autonomia e o Grande Desafio Final
 
-A aula de encerramento integra todos os conhecimentos adquiridos ao longo da jornada em um **Projeto Integrador Prático**, consolidando a autonomia digital e celebrando a conquista da turma:
+A aula de encerramento integrou todos os conhecimentos adquiridos ao longo da jornada em um **Projeto Integrador Prático**, consolidando a autonomia digital e celebrando a conquista da turma:
 
 - **Aquecimento & Ginástica dos Dedos:** Treino de digitação no [AgileFingers](https://agilefingers.com/pt) e no jogo [ZType](https://zty.pe).
 - **Roda da Memória Viva:** Revisão dialogada dos conceitos de Hardware, Mouse, Atalhos, Planilhas (`=SOMA`, `=MÉDIA`, `=MÁXIMO`), Prompts de IA e Segurança.
@@ -160,7 +217,7 @@ A aula de encerramento integra todos os conhecimentos adquiridos ao longo da jor
 
 ---
 
-# ⌨️ Cola Rápida de Atalhos do Teclado
+## ⌨️ Cola Rápida de Atalhos do Teclado
 
 Guarde estes comandos para facilitar o seu dia a dia no computador:
 
@@ -178,7 +235,7 @@ Guarde estes comandos para facilitar o seu dia a dia no computador:
 
 ---
 
-# 🔗 Tabela Geral de Links e Ferramentas Gratuitas
+## 🔗 Tabela Geral de Links e Ferramentas Gratuitas
 
 Todas as plataformas utilizadas no curso são **100% gratuitas** e funcionam direto pelo navegador (no computador ou no celular):
 
@@ -208,10 +265,12 @@ Todas as plataformas utilizadas no curso são **100% gratuitas** e funcionam dir
 
 ---
 
-# 🤝 Sobre o Autor & Conecte-se
+## 🤝 Sobre o Autor & Conecte-se
 
-Este material didático e repositório foram idealizados, estruturados e elaborados por **Leanderson Dias de Lima** para as oficinas do curso de **Informática Básica e Inclusão Digital da EDUCAFRO**.
+Este material didático e repositório foram idealizados, estruturados e ministrados por mim, **[Leanderson Dias de Lima](https://www.linkedin.com/in/leanderson-dias-de-lima/)**, para as oficinas do curso de **Informática Básica e Inclusão Digital da EDUCAFRO**.
 
 Se este conteúdo foi útil para você, para a sua comunidade, escola ou projeto social:
-- 🌐 **Conecte-se comigo no LinkedIn:** [linkedin.com/in/leanderson-dias-de-lima](https://www.linkedin.com/in/leanderson-dias-de-lima/)
-- 💬 **Vamos conversar!** Sinta-se incentivado(a) a entrar em contato para tirar dúvidas, trocar experiências sobre inclusão digital, educação popular e tecnologia, dar sugestões ou construir novas parcerias e projetos em conjunto. Toda conexão em prol da democratização do conhecimento é muito bem-vinda!
+- 🌐 **LinkedIn:** [linkedin.com/in/leanderson-dias-de-lima](https://www.linkedin.com/in/leanderson-dias-de-lima/)
+- 💬 **Vamos conversar!** Sinta-se incentivado(a) a entrar em contato para tirar dúvidas, trocar experiências sobre inclusão digital, educação popular e tecnologia, sugerir melhorias ou construir novas parcerias e projetos em conjunto. Toda conexão em prol da democratização do conhecimento é muito bem-vinda!
+
+---
